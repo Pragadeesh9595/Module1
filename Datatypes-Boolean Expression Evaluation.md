@@ -1,21 +1,22 @@
-
-# Ex 1:Datatypes-Boolean Expression Evaluation in Python
+# Datatypes-Character Literal in Python
 
 ## 🎯 Aim
-To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
+To write a Python program that prints the characters `'T'` and `'a'` using character literals.
 
 ## 🧠 Algorithm
-1. Set variable `a` to the result of the expression `0 == True`.
-2. Set variable `b` to the result of the expression `False == False`.
-3. Set variable `c` to the result of the expression `True + True`.
-4. Set variable `d` to the result of the expression `False + 9`.
-5. Print the value of `a` with the label "a is".
-6. Print the value of `b` with the label "b is".
-7. Print the value of `c` with the label "c:".
-8. Print the value of `d` with the label "d:".
+1. Print the character `'T'`.
+2. Print the character `'a'`.
 
-## 💻 Program
-Add Code here
-
+## 🧾 Program
+```python
+print('T')
+print('a')
+```
 ## Output
+
+T
+
+a
+
 ## Result
+Thus, the Python program to print the characters 'T' and 'a' using character literals was successfully executed.
